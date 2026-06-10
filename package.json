@@ -1,0 +1,13 @@
+{
+  "name": "bug-analysis",
+  "version": "1.0.0",
+  "description": "Demo Express app for static analysis and audit testing",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "4.17.4"
+  }
+}
